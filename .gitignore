@@ -14,3 +14,4 @@ buildNumber.properties
 *.swp
 *.class
 *.log
+.vscode/
