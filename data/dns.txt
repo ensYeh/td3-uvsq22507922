@@ -1,3 +1,6 @@
 www.uvsq.fr 193.51.31.90
 poste.uvsq.fr 193.51.31.154
 ecampus.uvsq.fr 193.51.25.12
+newhost.uvsq.fr 193.51.25.55
+qewhost.uvsq.fr 193.52.25.55
+fewhost.uvsq.fr 123.51.25.99
